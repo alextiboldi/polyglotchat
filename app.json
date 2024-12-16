@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6f5b0f36-304c-4c2e-be89-779a5a48503b"
+      }
+    },
+    "owner": "alex.tiboldi"
   }
 }
